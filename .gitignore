@@ -1,0 +1,19 @@
+# Python stuff
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Data and Models (Optional: if you want to regenerate them on build)
+# We regenerate them in render-build.sh, so we keep the csv data but ignore large pkl if needed
+# For now, let's keep it simple
+# models/saved/*.pkl
+# models/saved/*.json
+
+# OS stuff
+.DS_Store
+Thumbs.db

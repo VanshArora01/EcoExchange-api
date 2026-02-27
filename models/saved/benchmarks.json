@@ -1,0 +1,182 @@
+{
+    "Steel": {
+        "industry": "Steel",
+        "avg_monthly_co2_kg": 144522.3,
+        "best_in_class_co2_kg": 8902.17,
+        "worst_in_class_co2_kg": 722915.14,
+        "avg_emission_intensity": 154.23,
+        "top_emission_sources": [
+            "coal_combustion",
+            "electricity",
+            "furnace_oil"
+        ],
+        "common_optimizations": [
+            "waste_heat_recovery",
+            "process_optimization"
+        ],
+        "companies_in_dataset": 40,
+        "data_last_updated": "2024-01-01"
+    },
+    "Energy": {
+        "industry": "Energy",
+        "avg_monthly_co2_kg": 243191.63,
+        "best_in_class_co2_kg": 25508.84,
+        "worst_in_class_co2_kg": 1421655.66,
+        "avg_emission_intensity": 293.22,
+        "top_emission_sources": [
+            "coal_combustion",
+            "electricity",
+            "furnace_oil"
+        ],
+        "common_optimizations": [
+            "renewable_procurement",
+            "led_lighting"
+        ],
+        "companies_in_dataset": 40,
+        "data_last_updated": "2024-01-01"
+    },
+    "Chemical": {
+        "industry": "Chemical",
+        "avg_monthly_co2_kg": 110942.67,
+        "best_in_class_co2_kg": 6600.12,
+        "worst_in_class_co2_kg": 451820.86,
+        "avg_emission_intensity": 112.67,
+        "top_emission_sources": [
+            "electricity",
+            "diesel_combustion",
+            "natural_gas"
+        ],
+        "common_optimizations": [
+            "waste_heat_recovery",
+            "process_optimization"
+        ],
+        "companies_in_dataset": 40,
+        "data_last_updated": "2024-01-01"
+    },
+    "Automotive": {
+        "industry": "Automotive",
+        "avg_monthly_co2_kg": 45179.56,
+        "best_in_class_co2_kg": 5163.35,
+        "worst_in_class_co2_kg": 266465.76,
+        "avg_emission_intensity": 91.3,
+        "top_emission_sources": [
+            "electricity",
+            "diesel_combustion",
+            "natural_gas"
+        ],
+        "common_optimizations": [
+            "renewable_procurement",
+            "led_lighting"
+        ],
+        "companies_in_dataset": 40,
+        "data_last_updated": "2024-01-01"
+    },
+    "Manufacturing": {
+        "industry": "Manufacturing",
+        "avg_monthly_co2_kg": 57170.75,
+        "best_in_class_co2_kg": 4361.51,
+        "worst_in_class_co2_kg": 316081.44,
+        "avg_emission_intensity": 68.29,
+        "top_emission_sources": [
+            "electricity",
+            "diesel_combustion",
+            "natural_gas"
+        ],
+        "common_optimizations": [
+            "renewable_procurement",
+            "led_lighting"
+        ],
+        "companies_in_dataset": 40,
+        "data_last_updated": "2024-01-01"
+    },
+    "Textile": {
+        "industry": "Textile",
+        "avg_monthly_co2_kg": 32096.8,
+        "best_in_class_co2_kg": 1463.57,
+        "worst_in_class_co2_kg": 185929.71,
+        "avg_emission_intensity": 32.99,
+        "top_emission_sources": [
+            "electricity",
+            "diesel_combustion",
+            "natural_gas"
+        ],
+        "common_optimizations": [
+            "renewable_procurement",
+            "led_lighting"
+        ],
+        "companies_in_dataset": 40,
+        "data_last_updated": "2024-01-01"
+    },
+    "Food_Processing": {
+        "industry": "Food_Processing",
+        "avg_monthly_co2_kg": 34135.47,
+        "best_in_class_co2_kg": 1790.59,
+        "worst_in_class_co2_kg": 184870.23,
+        "avg_emission_intensity": 36.1,
+        "top_emission_sources": [
+            "electricity",
+            "diesel_combustion",
+            "natural_gas"
+        ],
+        "common_optimizations": [
+            "renewable_procurement",
+            "led_lighting"
+        ],
+        "companies_in_dataset": 40,
+        "data_last_updated": "2024-01-01"
+    },
+    "Pharmaceutical": {
+        "industry": "Pharmaceutical",
+        "avg_monthly_co2_kg": 17335.94,
+        "best_in_class_co2_kg": 783.14,
+        "worst_in_class_co2_kg": 101976.9,
+        "avg_emission_intensity": 20.41,
+        "top_emission_sources": [
+            "electricity",
+            "diesel_combustion",
+            "natural_gas"
+        ],
+        "common_optimizations": [
+            "renewable_procurement",
+            "led_lighting"
+        ],
+        "companies_in_dataset": 40,
+        "data_last_updated": "2024-01-01"
+    },
+    "Electronics": {
+        "industry": "Electronics",
+        "avg_monthly_co2_kg": 15175.51,
+        "best_in_class_co2_kg": 617.97,
+        "worst_in_class_co2_kg": 75162.8,
+        "avg_emission_intensity": 13.58,
+        "top_emission_sources": [
+            "electricity",
+            "diesel_combustion",
+            "natural_gas"
+        ],
+        "common_optimizations": [
+            "renewable_procurement",
+            "led_lighting"
+        ],
+        "companies_in_dataset": 40,
+        "data_last_updated": "2024-01-01"
+    },
+    "Construction": {
+        "industry": "Construction",
+        "avg_monthly_co2_kg": 42137.42,
+        "best_in_class_co2_kg": 1816.64,
+        "worst_in_class_co2_kg": 242008.32,
+        "avg_emission_intensity": 47.7,
+        "top_emission_sources": [
+            "electricity",
+            "diesel_combustion",
+            "natural_gas"
+        ],
+        "common_optimizations": [
+            "renewable_procurement",
+            "led_lighting"
+        ],
+        "companies_in_dataset": 40,
+        "data_last_updated": "2024-01-01"
+    }
+}
